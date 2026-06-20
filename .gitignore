@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.venv/
+.env
+.cache/
+build/
+dist/
+startup_error.log
+*.log
